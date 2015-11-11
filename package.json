@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Corevo/ochre-liberator.git"
   },
   "author": "Corevo",
-  "license": "ISC",
+  "license": "GPLv2",
   "bugs": {
     "url": "https://github.com/Corevo/ochre-liberator/issues"
   },
